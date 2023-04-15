@@ -11,8 +11,9 @@ FBref.com, a website devoted to tracking statistics for football teams and playe
 
 ### Premier League clubs’ goals for and against during the current season (2022-2023):
 
-![alt text](https://github.com/Naaimaben/DataViz-Final-Project--Football-/blob/master/Graphs/1-premier league clubs goals for and against.PNG)
+![alt text](https://github.com/Naaimaben/DataViz-Final-Project--Football-/blob/master/Graphs/1-premier%20league%20clubs%20goals%20for%20and%20against.PNG)
 
-### Luke Shaw's defending dashboard in the Premier League during the season 21-22
-![alt text](https://github.com/Naaimaben/DataViz-Final-Project--Football-/blob/master/Graphs/2-Luke Shaw Graph.PNG)
+### Luke Shaw's defending dashboard in the Premier League during the season 21-22:
+
+![alt text](https://github.com/Naaimaben/DataViz-Final-Project--Football-/blob/master/Graphs/2-Luke%20Shaw%20Graph.PNG)
 
